@@ -14,4 +14,7 @@
   > 강아지의 **도움** 받아 게임을 **클리어**하세요~
 
 
-<img src="https://github.com/lmj0076/StageGame/blob/master/images/1.png?raw=true" width="450px" height="300px" ></img><br/>
+<img src="https://github.com/lmj0076/StageGame/blob/master/images/main.PNG?raw=true" width="450px" height="300px" ></img><br/>
+<img src="https://github.com/lmj0076/StageGame/blob/master/images/stage1.PNG?raw=true" width="450px" height="300px" ></img><br/>
+<img src="https://github.com/lmj0076/StageGame/blob/master/images/stage2.png?raw=true" width="450px" height="300px" ></img><br/>
+
